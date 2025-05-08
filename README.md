@@ -3,13 +3,14 @@
 
 
 
-#installer:
+# installer:
 
 
 cd wavrs-DDoS
+
 python wavrs-DDoS.py
 
-#tools:
+# tools:
 
 (DDoS https)
 
